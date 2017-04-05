@@ -13,7 +13,4 @@ var resta= numero1-numero2;
 var multiplicacion= numero1*numero2;
 var division= numero1/numero2;
 
-alert("La suma es: " + suma)
-alert("La resta es: " + resta)
-alert("La multiplicación es: " + multiplicacion)
-alert("La division es: " + division)
+alert("La suma es: " + suma +"\n" + "La resta es: " + resta +"\n" + "La multiplicación es: " + multiplicacion + "\n"+ "La division es: " + division)
